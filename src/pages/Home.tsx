@@ -5,7 +5,7 @@ import { articles } from '../data/articles';
 import SEO from '../components/SEO';
 
 const Home = () => {
-  const featuredArticles = articles.slice(0, 6);
+  const featuredArticles = articles.slice(0, 30);
 
   return (
     <>
